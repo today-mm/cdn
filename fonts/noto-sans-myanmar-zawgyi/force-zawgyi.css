@@ -1,0 +1,7 @@
+@import url('zawgyi.css');
+/* Force Zaw Gyi */
+textarea,
+input[type]:not([type=url]):not([type=hidden]) {
+    font-family: 'Noto Sans Zawgyi' !important;
+    font-weight: 400 !important;
+}
