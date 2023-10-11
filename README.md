@@ -4,7 +4,7 @@ CDN for TODAY Book sStore, other TODAY's Web services.
 
 # Get git tree
 ```
-https://api.github.com/repositories/703439403/git/trees/main?recursive=1
+https://api.github.com/repositories/703439403/git/trees/main
 ```
 
 # Fonts
